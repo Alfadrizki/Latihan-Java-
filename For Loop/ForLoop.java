@@ -36,23 +36,4 @@ public class ForLoop {
     ;
     }
 
-
-
-
-
-
-
-
 }
-        
-    
-
-
-
-
-
-
-
-
-
-
